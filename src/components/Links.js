@@ -3,7 +3,7 @@ import LinkForm from './LinkForm';
 
 import{db} from '../firebase';
 
-const Links = () =>{
+export const Links = () =>{
 
     const addOrEdit= async (linkObject)=>{
         //console.log(linkObject);
@@ -17,4 +17,4 @@ const Links = () =>{
     ;
 };
 
-export default Links;
+//export default Links;

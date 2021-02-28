@@ -59,7 +59,7 @@ const LinkForm = (props) => {
           placeholder="numero de registro"
           name="numeroregistro"
           onChange={handleInputChange}
-          value={values.numerochip}>
+          value={values.numeroregistro}>
           </input>
         </div>
 
@@ -147,7 +147,7 @@ const LinkForm = (props) => {
           placeholder="numero de chip"
           name="numerochip"
           onChange={handleInputChange}
-          value={values.registroperro}>
+          value={values.numerochip}>
           </input>
         </div>
 

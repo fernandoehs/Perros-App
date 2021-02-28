@@ -6,10 +6,11 @@ import reportWebVitals from './reportWebVitals';
 
 import './firebase.js';
 import 'bootswatch/dist/superhero/bootstrap.min.css';
+import { AppRouter } from './components/router/AppRouter';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <AppRouter />
   </React.StrictMode>,
   document.getElementById('root')
 );
