@@ -3,6 +3,7 @@ import { Nav } from '../Nav';
 import { Switch, Redirect } from 'react-router-dom';
 import { Busqueda } from '../Busqueda';
 import { Links } from '../Links';
+import {Registrados} from '../Registrados';
 
 
 import {
@@ -21,6 +22,7 @@ export const DashboardRoutes = () => {
                 <Route exact path="/registro/" component={Links}/>
                
                 <Route exact path="/busqueda/" component={Busqueda}/>
+                <Route exact path="/registrados" component={Registrados}/>
 
                 <Redirect to="/registro/"/>
              </Switch>    

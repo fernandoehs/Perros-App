@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+//import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 import './firebase.js';
@@ -9,6 +9,8 @@ import 'bootswatch/dist/superhero/bootstrap.min.css';
 import { AppRouter } from './components/router/AppRouter';
 
 ReactDOM.render(
+  
+
   <React.StrictMode>
     <AppRouter />
   </React.StrictMode>,

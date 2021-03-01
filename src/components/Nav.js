@@ -32,6 +32,14 @@ export function Nav(){
                 >
                     Busqueda
                 </NavLink>
+                <NavLink 
+                    activeClassName="active"
+                    className="nav-item nav-link" 
+                    exact
+                    to="/registrados"
+                >
+                    Registrados
+                </NavLink>
             </div>
         </div>
 
