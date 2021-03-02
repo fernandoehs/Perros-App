@@ -57,9 +57,9 @@ const LinkForm = (props) => {
           type="text" 
           className= "form-control" 
           placeholder="numero de registro"
-          name="numeroregistro"
+          name="registroperro"
           onChange={handleInputChange}
-          value={values.numeroregistro}>
+          value={values.registroperro}>
           </input>
         </div>
 
