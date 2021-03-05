@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Perros-App/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/Perros-App/static/js/main.a3418f7f.chunk.js",
-    "main.js.map": "/Perros-App/static/js/main.a3418f7f.chunk.js.map",
+    "main.js": "/Perros-App/static/js/main.a7bdf12f.chunk.js",
+    "main.js.map": "/Perros-App/static/js/main.a7bdf12f.chunk.js.map",
     "runtime-main.js": "/Perros-App/static/js/runtime-main.6589df31.js",
     "runtime-main.js.map": "/Perros-App/static/js/runtime-main.6589df31.js.map",
     "static/css/2.db93b4ee.chunk.css": "/Perros-App/static/css/2.db93b4ee.chunk.css",
-    "static/js/2.0ef70b28.chunk.js": "/Perros-App/static/js/2.0ef70b28.chunk.js",
-    "static/js/2.0ef70b28.chunk.js.map": "/Perros-App/static/js/2.0ef70b28.chunk.js.map",
+    "static/js/2.88336c50.chunk.js": "/Perros-App/static/js/2.88336c50.chunk.js",
+    "static/js/2.88336c50.chunk.js.map": "/Perros-App/static/js/2.88336c50.chunk.js.map",
     "static/js/3.73ab6c9f.chunk.js": "/Perros-App/static/js/3.73ab6c9f.chunk.js",
     "static/js/3.73ab6c9f.chunk.js.map": "/Perros-App/static/js/3.73ab6c9f.chunk.js.map",
     "index.html": "/Perros-App/index.html",
     "static/css/2.db93b4ee.chunk.css.map": "/Perros-App/static/css/2.db93b4ee.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/Perros-App/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.0ef70b28.chunk.js.LICENSE.txt": "/Perros-App/static/js/2.0ef70b28.chunk.js.LICENSE.txt"
+    "static/js/2.88336c50.chunk.js.LICENSE.txt": "/Perros-App/static/js/2.88336c50.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6589df31.js",
     "static/css/2.db93b4ee.chunk.css",
-    "static/js/2.0ef70b28.chunk.js",
+    "static/js/2.88336c50.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.a3418f7f.chunk.js"
+    "static/js/main.a7bdf12f.chunk.js"
   ]
 }
