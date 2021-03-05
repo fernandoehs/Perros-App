@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Perros-App/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/Perros-App/static/js/main.5680f96c.chunk.js",
-    "main.js.map": "/Perros-App/static/js/main.5680f96c.chunk.js.map",
+    "main.js": "/Perros-App/static/js/main.dd787dfe.chunk.js",
+    "main.js.map": "/Perros-App/static/js/main.dd787dfe.chunk.js.map",
     "runtime-main.js": "/Perros-App/static/js/runtime-main.6589df31.js",
     "runtime-main.js.map": "/Perros-App/static/js/runtime-main.6589df31.js.map",
     "static/css/2.db93b4ee.chunk.css": "/Perros-App/static/css/2.db93b4ee.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.db93b4ee.chunk.css",
     "static/js/2.88336c50.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.5680f96c.chunk.js"
+    "static/js/main.dd787dfe.chunk.js"
   ]
 }
