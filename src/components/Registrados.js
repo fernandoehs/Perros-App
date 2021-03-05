@@ -1,6 +1,7 @@
 import React,{useEffect,useState} from 'react';
 import{db} from '../firebase';
 //import BusquedaForm from './BusquedaForm';
+import {PerroCard} from './PerroCard';
 
 export const Registrados = () => {
 
@@ -24,11 +25,14 @@ export const Registrados = () => {
     return(
         <div>
             <h1>Lista de Registrados</h1>
-            <div className="col-md-8" >
+            <div className="card-colunns" >
                 {links.map(link=>{
-                   return <div key={link.id}>
-                         <h1 >{link.nombre}</h1>
-                         </div>
+                    
+                   return <PerroCard 
+                         key={link.id}
+                        // <h1 >{link.nombre}</h1>
+                        {...link}
+                        />
                 })}
                        
             </div>
